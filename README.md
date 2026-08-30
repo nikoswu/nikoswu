@@ -34,13 +34,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,windows,linux,ubuntu,docker,git,github,githubactions,vscode" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,cloudflare,wordpress" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=azure,windows,linux,ubuntu,docker,git,github,githubactions,nginx,cloudflare,vscode" />
 
 ---
 
@@ -54,21 +48,21 @@ currently_learning:
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nextcloud" height="48" alt="Nextcloud" />
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/joplin" height="48" alt="Joplin" />
+<img src="https://cdn.simpleicons.org/joplin" height="48" alt="Joplin Server" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/influxdb" height="48" alt="InfluxDB" />
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/prometheus" height="48" alt="Prometheus" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana" height="48" alt="Grafana" />
-&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/uptimekuma" height="48" alt="Uptime Kuma" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker" />
 
 </div>
+
+
 
 
 ---
