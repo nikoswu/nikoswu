@@ -13,8 +13,10 @@
 ```yaml
 name: Nikos Goudroumanidis
 role: IT Operations & Service Management | Technical Writer
+location: Neverland
 
 interests:
+  - Windows & Azure
   - Linux & Servers
   - Docker
   - Automation
