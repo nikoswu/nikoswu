@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hey%2C%20I'm%20nikoswu%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Operations%20%E2%80%A2%20Service%20OManagement%20%E2%80%A2%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hey%2C%20I'm%20nikoswu%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Operations%20%7C%20Service%20Management%20%7C%20Technical%20Writer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=IT+Operations+%26+Service+Management;Linux+%7C+Docker+%7C+Infrastructure;Monitoring+%26+Observability;Automation+%26+DevOps+Journey;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
