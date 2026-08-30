@@ -38,8 +38,6 @@ currently_learning:
 
 </div>
 
-## 🐳 Self-Hosted Services
-
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/wireguard" height="48" alt="WireGuard" />
