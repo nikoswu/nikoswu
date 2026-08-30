@@ -52,17 +52,6 @@ currently_learning:
 
 </div>
 
-
----
-
-## 🌌 Exploring Infrastructure
-
-<div align="center">
-
-<img src="assets/minimal-planet-digital-art-ring-system-space-wallpaper-preview.jpg" width="85%" alt="Minimal Planet Digital Art" />
-
-</div>
-
 ---
 
 ## 🚀 What I'm Building & Exploring
@@ -72,19 +61,6 @@ currently_learning:
 * ⚙️ **Automation** and infrastructure experiments
 * 🤖 **AI Agents** and task-oriented automation
 * 🔄 **CI/CD** and GitHub Actions
-
----
-
-## 📌 Featured Areas
-
-```text
-🐧 Linux & Server Administration
-🐳 Docker & Containerized Applications
-📊 Monitoring & Observability
-⚙️ Automation & DevOps
-🤖 AI Agents
-🔄 CI/CD & GitHub Actions
-```
 
 ---
 
