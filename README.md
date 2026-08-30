@@ -36,6 +36,8 @@ currently_learning:
 
 <img src="https://skillicons.dev/icons?i=azure,windows,linux,ubuntu,docker,git,github,githubactions,nginx,cloudflare,vscode" />
 
+</div>
+
 ## 🐳 Self-Hosted Services
 
 <div align="center">
