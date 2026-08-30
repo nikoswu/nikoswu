@@ -30,11 +30,12 @@ currently_learning:
 ```
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ My Stack
+### 🖥️ Infrastructure & Containers
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,nginx,cloudflare" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions" />
 
 <br/><br/>
 
