@@ -11,15 +11,14 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Nikos
-role: IT Operations & Service Management
+name: Nikos Goudroumanidis
+role: IT Operations & Service Management | Technical Writer
 
 interests:
-  - Infrastructure
   - Linux & Servers
   - Docker
   - Automation
-  - DevOps
+  - Cloud Infra
   - Self-hosting
   - Monitoring & Observability
 
