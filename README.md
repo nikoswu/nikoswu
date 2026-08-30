@@ -28,7 +28,6 @@ currently_learning:
   - Jira Service Management
   - CI/CD
   - GitHub Actions
-  - Infrastructure Automation
   - AI Agents
 ```
 
