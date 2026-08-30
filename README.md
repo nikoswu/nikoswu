@@ -61,21 +61,17 @@ currently_learning:
 ## 🚀 Still Breaking Things, Still Learning
 
 
-* 📈 **Stepsy API** — building a self-hosted API and monitoring project that processes activity data and integrates with InfluxDB and Grafana.
-* 🎬 **Media Stack** — running and experimenting with a Docker-based media automation environment using qBittorrent, Prowlarr, Radarr and Lidarr.
-* 🧠 **AI Agents & Automation** — experimenting with Hermes Agent and OpenClaw, building and exploring task-oriented AI agents and automation workflows.
-* 🖥️ **Self-Hosted Infrastructure** — managing and experimenting with Docker-based services including Nextcloud, Jellyfin, Joplin Server, WordPress, OnlyOffice and other self-hosted applications.
-* 📊 **Monitoring & Observability** — monitoring infrastructure and services using Grafana, Prometheus, InfluxDB, cAdvisor, Node Exporter and Uptime Kuma.
-* ⚙️ **Infrastructure Automation** — exploring automation, container management, service deployment and GitHub Actions.
-* 🔬 **Distributed Computing** — running BOINC and experimenting with distributed computing projects.
-* 🧪 **Continuous Experiments** — testing new self-hosted tools and services such as Seer, Medusa and other infrastructure projects.
-
+* 📈 **Stepsy API** — activity data, InfluxDB & Grafana
+* 🎬 **Media Stack** — qBittorrent · Prowlarr · Radarr · Lidarr
+* 🤖 **AI Agents** — Hermes Agent · OpenClaw
+* 🖥️ **Self-Hosted Services** — Nextcloud · Jellyfin · OnlyOffice
+* 🔬 **Experiments** — BOINC · Seer · Medusa · and more...
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer&text=thanX%20for%20visiting%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
 
