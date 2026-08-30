@@ -30,9 +30,11 @@ currently_learning:
 ```
 
 ---
+## 🛠️ Tech Stack
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,python,bash" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,nginx,cloudflare" />
 
 <br/><br/>
 
