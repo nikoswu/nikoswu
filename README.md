@@ -30,8 +30,7 @@ currently_learning:
 ```
 
 ---
-## 🛠️ My Stack
-### 🖥️ Infrastructure & Containers
+## 🖥️ Infrastructure & Containers
 
 <div align="center">
 
@@ -39,7 +38,7 @@ currently_learning:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,ubuntu" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,clouflare" />
 
 </div>
 
