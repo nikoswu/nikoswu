@@ -16,12 +16,11 @@ role: IT Operations & Service Management | Technical Writer
 location: Neverland
 
 interests:
-  - Windows & Azure
-  - Linux & Servers
-  - Docker
-  - Jira
-  - Automation
-  - Cloud Infra
+  - Windows | Azure | Servers
+  - Linux | Docker
+  - Atlassian | Jira
+  - Automations
+  - Cloud Infra.
   - Self-hosting
   - Monitoring & Observability
 
