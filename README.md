@@ -36,8 +36,6 @@ currently_learning:
 
 <img src="https://skillicons.dev/icons?i=azure,windows,linux,ubuntu,docker,git,github,githubactions,nginx,cloudflare,vscode" />
 
----
-
 ## 🐳 Self-Hosted Services
 
 <div align="center">
@@ -51,18 +49,8 @@ currently_learning:
 <img src="https://cdn.simpleicons.org/joplin" height="48" alt="Joplin Server" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/influxdb" height="48" alt="InfluxDB" />
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/uptimekuma" height="48" alt="Uptime Kuma" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker" height="48" alt="Docker" />
 
 </div>
-
-
 
 
 ---
