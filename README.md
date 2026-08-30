@@ -1,57 +1,53 @@
-# Hi, I'm Nikos 👋
+╭──────────────────────────────────────────────╮
+│                                              │
+│             Hi, I'm Nikos 👋                 │
+│       IT Operations • Infrastructure         │
+│            Automation • DevOps               │
+│                                              │
+╰──────────────────────────────────────────────╯
 
-I'm an **IT Operations & Service Management professional** with a strong interest in infrastructure, automation, DevOps, and self-hosted technologies.
+        ⌨️ IT Operations & Service Management
+           🐳 Docker & Self-Hosting
+           📊 Monitoring & Observability
+           🤖 Automation & AI Agents
 
-I enjoy building, experimenting with, and learning about systems that improve reliability, visibility, and automation.
 
-## 🔧 What I work with
+👨‍💻 About Me
+────────────────────────────────────
 
-* IT Operations & Service Management
-* Linux & Server Administration
-* Docker & Containerized Applications
-* Monitoring & Observability
-* Automation
-* Git & GitHub
+name: Nikos
+role: IT Operations & Service Management
+interests:
+  - Infrastructure
+  - Automation
+  - DevOps
+  - Self-hosting
+currently_learning:
+  - CI/CD
+  - GitHub Actions
+  - AI Agents
 
-## 🛠️ Technologies & Tools
 
-`Linux` · `Docker` · `Git` · `GitHub` · `Grafana` · `Prometheus` · `InfluxDB`
+🛠️ Tech Stack
 
-## 🚀 Currently exploring
+🐧 Linux   🐳 Docker   📊 Grafana
+🔥 InfluxDB   📈 Prometheus
+🔧 Git   ⚙️ GitHub Actions
 
-* DevOps practices
-* CI/CD pipelines
-* Infrastructure automation
-* AI Agents & Automation
-* Self-hosted applications
 
-## 📊 GitHub Activity
+📊 GitHub Activity
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nikoswu&show_icons=true&hide_title=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+[ GitHub Stats ]   [ Streak Stats ]
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoswu&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+[ Top Languages ]
 
-## 📌 Projects
 
-Here are some of the things I'm working on and experimenting with:
+🚀 Currently Building
 
-* **Self-hosted infrastructure** — Docker-based services and applications
-* **Monitoring & Observability** — Grafana, Prometheus and InfluxDB
-* **Automation & AI Agents** — experimenting with autonomous and task-oriented agents
-* **CI/CD & GitHub** — learning and building automated workflows
+• Self-hosted infrastructure
+• Monitoring & observability projects
+• Automation experiments
+• AI Agents
 
----
 
-📍 Greece
-💼 IT Operations & Service Management
-🚀 Always learning and building
+╰──── Thanks for visiting 👋 ────╯
