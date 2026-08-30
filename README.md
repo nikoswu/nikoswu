@@ -64,26 +64,6 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikoswu&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=nikoswu&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoswu&layout=compact&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📌 Featured Areas
 
 ```text
