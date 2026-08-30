@@ -56,13 +56,26 @@ currently_learning:
 
 ---
 
-## 🚀 What I'm Building & Exploring
+## 🚀 Still Breaking Things, Still Learning
 
-* 🐳 **Self-hosted infrastructure** using Docker
-* 📊 **Monitoring & observability** with Grafana, Prometheus & InfluxDB
-* ⚙️ **Automation** and infrastructure experiments
-* 🤖 **AI Agents** and task-oriented automation
-* 🔄 **CI/CD** and GitHub Actions
+## 🚀 What I'm Building & Running
+
+* 📈 **Stepsy API** — building a self-hosted API and monitoring project that processes activity data and integrates with InfluxDB and Grafana.
+
+* 🎬 **Media Stack** — running and experimenting with a Docker-based media automation environment using qBittorrent, Prowlarr, Radarr and Lidarr.
+
+* 🧠 **AI Agents & Automation** — experimenting with Hermes Agent and OpenClaw, building and exploring task-oriented AI agents and automation workflows.
+
+* 🖥️ **Self-Hosted Infrastructure** — managing and experimenting with Docker-based services including Nextcloud, Jellyfin, Joplin Server, WordPress, OnlyOffice and other self-hosted applications.
+
+* 📊 **Monitoring & Observability** — monitoring infrastructure and services using Grafana, Prometheus, InfluxDB, cAdvisor, Node Exporter and Uptime Kuma.
+
+* ⚙️ **Infrastructure Automation** — exploring automation, container management, service deployment and GitHub Actions.
+
+* 🔬 **Distributed Computing** — running BOINC and experimenting with distributed computing projects.
+
+* 🧪 **Continuous Experiments** — testing new self-hosted tools and services such as Seer, Medusa and other infrastructure projects.
+
 
 ---
 
