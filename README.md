@@ -30,25 +30,17 @@ currently_learning:
 ```
 
 ---
-## 🖥️ My Server Stack
+## 🛠️ Tech Stack
 
-### Infrastructure
+<div align="center">
 
-[ Linux ] [ Ubuntu ] [ Docker ] [ Nginx ]
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,python,bash" />
 
-### Monitoring
+<br/><br/>
 
-[ Grafana ] [ Prometheus ] [ InfluxDB ]
-[ cAdvisor ] [ Node Exporter ] [ Uptime Kuma ] [ Diun ]
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,ubuntu" />
 
-### Self-Hosted
-
-[ Hermes ] [ Arcane ] [ WireGuard ]
-[ Nextcloud ] [ Jellyfin ] [ Joplin ] [ WordPress ]
-
-### Other
-
-[ BOINC ]
+</div>
 
 
 ---
