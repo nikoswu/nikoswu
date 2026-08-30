@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hey%2C%20I'm%20nikoswu%20%F0%9F%AA%90&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Operations%20%7C%20Service%20Management%20%7C%20Technical%20Writer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Γειά%2C%20I'm%20nikoswu%20%F0%9F%AA%90&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Operations%20%7C%20Service%20Management%20%7C%20Technical%20Writer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=IT+Operations+%26+Service+Management;Linux+%7C+Docker;Monitoring+%26+Observability;Automation+%26+AI+Agents;Still+breaking+things+and+learning+%F0%9F%98%84" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 abouT mE
 
 ```yaml
 name: Nikos Goudroumanidis
@@ -34,7 +34,7 @@ currently_learning:
 ```
 
 ---
-## 🖥️ Infrastructure & Containers
+## 🖥️ infrastructurE & containerS
 
 <div align="center">
 
@@ -58,7 +58,7 @@ currently_learning:
 
 ---
 
-## 🚀 Still Breaking Things, Still Learning
+## 🚀 stilL breakinG thingS, stilL learninG
 
 
 * 📈 **Stepsy API** — activity data, InfluxDB & Grafana
@@ -71,7 +71,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer&text=thanX%20for%20visiting%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer&text=thanX%20for%20visitinG%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
 
