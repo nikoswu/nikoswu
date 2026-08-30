@@ -34,7 +34,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=azure,linux,ubuntu,docker,git,github,githubactions" />
 
 <br/><br/>
 
