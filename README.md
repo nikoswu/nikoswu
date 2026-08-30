@@ -30,14 +30,15 @@ currently_learning:
 ```
 
 ---
-## 🛠️ Infrastructure & Containers
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,python,bash" />
 
+<br/><br/>
 
-## 🛠️ Monitoring & Observability
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,ubuntu" />
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</div>
 
 ---
 
