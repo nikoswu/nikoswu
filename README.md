@@ -19,12 +19,14 @@ interests:
   - Windows & Azure
   - Linux & Servers
   - Docker
+  - Jira
   - Automation
   - Cloud Infra
   - Self-hosting
   - Monitoring & Observability
 
 currently_learning:
+  - Jira Service Management
   - CI/CD
   - GitHub Actions
   - Infrastructure Automation
