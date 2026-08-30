@@ -38,7 +38,7 @@ currently_learning:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,clouflare" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,nginx,cloudflare" />
 
 </div>
 
